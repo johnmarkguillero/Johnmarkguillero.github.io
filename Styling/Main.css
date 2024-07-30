@@ -354,6 +354,38 @@ body {
   background: none;
 }
 
+.bg-parralax1 {
+  background-image: url("../images/backgroundPAR1.webp");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-parralax2 {
+  background-image: url("../images/parallax2.gif");
+  background-attachment: fixed;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-parralax1 {
+  background-image: url("../images/backgroundPAR1.webp");
+  background-attachment: fixed;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-parralax3 {
+  background-image: url("../images/parralax3.jpeg");
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 @media (min-width: 768px) {
   .button-64 {
     font-size: 24px;
